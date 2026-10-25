@@ -32,3 +32,12 @@ The core production pipeline and internal tooling are proprietary and are not pu
 ## Developed by
 
 **Mayda Studios**
+
+### Dracula — Character Design
+
+| Front View | Expressions | 3/4 Headshot |
+|---|---|---|
+| ![Front](Dracula_front.png) | ![Expressions](Dracula_expressions.png) | ![Headshot](Dracula_3_4_headshot.png) |
+
+Canonical character reference artwork used in
+Mayda Anime Studio's animation R&D workflow.
